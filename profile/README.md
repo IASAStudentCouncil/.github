@@ -1,4 +1,4 @@
-## 🔗 Links:
+## Links:
 ### [LinkedIn](https://www.linkedin.com/company/iasa-sc) | [Instagram](https://www.instagram.com/studrada_iasa) | [Facebook](https://www.facebook.com/studrada.iasa) | [Telegram](https://t.me/IASA_Student_Council) | [Our Articles](https://iasastudentcouncil.github.io/iasa-sc-blog/)
 
 ## Overview:
@@ -14,3 +14,9 @@
 📣 Informing. We always make sure that everyone is not only updated with the latest events and opportunities through our informational channels but also truly associated with the heartbeat of IASA.
 
 💻 IT-competitions and digital solutions. Our hackathons challenge your coding and analytical skills. On top of that, we develop products that make student life in our institute trouble-free.
+
+## Development vectors:
+- Telegram Bots Development
+- Creating Websites
+
+
