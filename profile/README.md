@@ -1,10 +1,10 @@
-## Links:
+## Links
 ### [LinkedIn](https://www.linkedin.com/company/iasa-sc) | [Instagram](https://www.instagram.com/studrada_iasa) | [Facebook](https://www.facebook.com/studrada.iasa) | [Telegram](https://t.me/IASA_Student_Council) | [Our Articles](https://iasastudentcouncil.github.io/iasa-sc-blog/)
 
-## Overview:
+## Overview
 #### IASA Student Council is a non-commercial voluntary organization standing as the voice of the Institute for Applied System Analysis student community. We champion the rights of over 1000 students and engage in every aspect of student life.
 
-## We provide a wide spectrum of services:
+## We provide a wide spectrum of services
 ⚖️ Advocacy. The rights and interests of our students are always protected. We process feedback on the quality of education and assessment fairness and ensure that the university administration hears each opinion.
 
 🤝 Support. We guide the selection of specialization and navigating admissions by providing resources to help entrants make correct decisions.
@@ -15,8 +15,8 @@
 
 💻 IT-competitions and digital solutions. Our hackathons challenge your coding and analytical skills. On top of that, we develop products that make student life in our institute trouble-free.
 
-## Development vectors:
+## Development vectors
 - Telegram Bots Development
-- Creating Websites
+- Creating Websites, API
 
 
